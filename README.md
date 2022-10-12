@@ -8,3 +8,4 @@ When examining HTML, attention is paid to basic HTML tags, paragraphs, lists, ta
 Learning CSS focuses on basic CSS selectors and styles, working with classes, presentation rules, positioning and view rules in CSS.
 
 The course ends with a practical Workshop and building a complete page with HTML and CSS.
+
